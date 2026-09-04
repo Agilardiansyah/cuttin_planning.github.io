@@ -26,7 +26,6 @@ Sistem Informasi Cutting Planning berbasis Web
 1. Extract ZIP
 2. Double-click `index.html`
 
-**Login Demo:**
 - admin / admin123
 - operator / operator123
 
